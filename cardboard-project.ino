@@ -1,3 +1,5 @@
+#include <Servo.h>
+
 Servo myServo;
 bool houseDown = false;
 
